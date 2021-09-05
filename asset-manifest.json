@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/INote/static/js/main.42348276.chunk.js",
+    "main.js.map": "/INote/static/js/main.42348276.chunk.js.map",
+    "runtime-main.js": "/INote/static/js/runtime-main.5cb669dd.js",
+    "runtime-main.js.map": "/INote/static/js/runtime-main.5cb669dd.js.map",
+    "static/js/2.d2922420.chunk.js": "/INote/static/js/2.d2922420.chunk.js",
+    "static/js/2.d2922420.chunk.js.map": "/INote/static/js/2.d2922420.chunk.js.map",
+    "index.html": "/INote/index.html",
+    "precache-manifest.803ab417baa2aea668c7a4a8c90042bb.js": "/INote/precache-manifest.803ab417baa2aea668c7a4a8c90042bb.js",
+    "service-worker.js": "/INote/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb669dd.js",
+    "static/js/2.d2922420.chunk.js",
+    "static/js/main.42348276.chunk.js"
+  ]
+}
