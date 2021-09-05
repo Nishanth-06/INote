@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Nishanth-06.github.io/INote",
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
   "description": "",
@@ -12,13 +13,16 @@
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
